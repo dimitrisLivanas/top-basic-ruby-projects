@@ -7,14 +7,12 @@ dictionary = [
 
 def substrings(string, dictionary)
   string = string.downcase
-  result = {}
-  dictionary.each do |word|
+  dictionary.each_with_object({}) do |word, result|
     count = string.scan(word).length
     result[word] = count if count > 0
   end
-  p result
 end
 
 # Tests
-substrings("below", dictionary)
-substrings("Howdy partner, sit down! How's it going?", dictionary)
+p substrings("below", dictionary)
+p substrings("Howdy partner, sit down! How's it going?", dictionary)
