@@ -8,7 +8,7 @@ These projects are part of the Ruby curriculum and focus on practicing fundament
 
 ## 📚 Projects
 - ✅ Caesar Cipher
-- ⬜ Sub Strings
+- ✅ Sub Strings
 - ⬜ Stock Picker
 - ⬜ Bubble Sort
 
@@ -25,7 +25,7 @@ These projects are part of the Ruby curriculum and focus on practicing fundament
 | Date       | Project       | Status  | Notes                                    |
 |------------|---------------|---------|------------------------------------------|
 | 03-09-2025 | Caesar Cipher | ✅ Done |Handles upper/lowercase + any shift factor|
-| DD-MM-YYYY | Sub Strings   | ⬜ Pending |                                        |
+| 04-09-2025 | Sub Strings   | ✅ Done |Handles strings of single and multiple words|
 | DD-MM-YYYY | Stock Picker  | ⬜ Pending |                                        |
 | DD-MM-YYYY | Bubble Sort   | ⬜ Pending |                                        |
 
